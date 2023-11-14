@@ -1,7 +1,7 @@
 # CV for RSSchool
 
 ## Andrei Sianiuta
-
+![Foto](IMG1.jpg)
 ### Contact information:
 Phone: +375-29-176-57-28
 
